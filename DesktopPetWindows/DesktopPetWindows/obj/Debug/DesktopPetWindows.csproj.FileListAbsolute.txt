@@ -1,0 +1,11 @@
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\bin\Debug\DesktopPetWindows.exe.config
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\bin\Debug\DesktopPetWindows.exe
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\bin\Debug\DesktopPetWindows.pdb
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.csproj.AssemblyReference.cache
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.Properties.Resources.resources
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.csproj.GenerateResource.cache
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.csproj.CoreCompileInputs.cache
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.exe
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.pdb
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.Player1.resources
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.Form1.resources

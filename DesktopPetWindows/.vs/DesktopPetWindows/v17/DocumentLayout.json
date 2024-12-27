@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\XKZ\\DesktopPet\\DesktopPetWindows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E61468-9BB0-4776-A841-3FD3397CDBF9}|DesktopPetWindows\\DesktopPetWindows.csproj|d:\\xkz\\desktoppet\\desktoppetwindows\\desktoppetwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E61468-9BB0-4776-A841-3FD3397CDBF9}|DesktopPetWindows\\DesktopPetWindows.csproj|solutionrelative:desktoppetwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E61468-9BB0-4776-A841-3FD3397CDBF9}|DesktopPetWindows\\DesktopPetWindows.csproj|d:\\xkz\\desktoppet\\desktoppetwindows\\desktoppetwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4E61468-9BB0-4776-A841-3FD3397CDBF9}|DesktopPetWindows\\DesktopPetWindows.csproj|solutionrelative:desktoppetwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E61468-9BB0-4776-A841-3FD3397CDBF9}|DesktopPetWindows\\DesktopPetWindows.csproj|d:\\xkz\\desktoppet\\desktoppetwindows\\desktoppetwindows\\sninja_swordidle 1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C4E61468-9BB0-4776-A841-3FD3397CDBF9}|DesktopPetWindows\\DesktopPetWindows.csproj|solutionrelative:desktoppetwindows\\sninja_swordidle 1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SNinja_swordidle 1.png",
+              "DocumentMoniker": "D:\\XKZ\\DesktopPet\\DesktopPetWindows\\DesktopPetWindows\\SNinja_swordidle 1.png",
+              "RelativeDocumentMoniker": "DesktopPetWindows\\SNinja_swordidle 1.png",
+              "ToolTip": "D:\\XKZ\\DesktopPet\\DesktopPetWindows\\DesktopPetWindows\\SNinja_swordidle 1.png",
+              "RelativeToolTip": "DesktopPetWindows\\SNinja_swordidle 1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-27T06:22:55.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\XKZ\\DesktopPet\\DesktopPetWindows\\DesktopPetWindows\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopPetWindows\\Form1.cs",
+              "ToolTip": "D:\\XKZ\\DesktopPet\\DesktopPetWindows\\DesktopPetWindows\\Form1.cs",
+              "RelativeToolTip": "DesktopPetWindows\\Form1.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:16:41.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\XKZ\\DesktopPet\\DesktopPetWindows\\DesktopPetWindows\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopPetWindows\\Form1.cs",
+              "ToolTip": "D:\\XKZ\\DesktopPet\\DesktopPetWindows\\DesktopPetWindows\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "DesktopPetWindows\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:16:38.575Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
