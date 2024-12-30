@@ -9,3 +9,7 @@ D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindow
 D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.pdb
 D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.Player1.resources
 D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.Form1.resources
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\bin\Debug\Player1.resx
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\bin\Debug\Player1.Designer.cs
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.Run1.resources
+D:\XKZ\DesktopPet\DesktopPetWindows\DesktopPetWindows\obj\Debug\DesktopPetWindows.Attack1.resources

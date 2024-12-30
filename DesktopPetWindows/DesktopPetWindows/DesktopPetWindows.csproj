@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Attack1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Attack1.resx</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -53,18 +58,29 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Player1.Designer.cs">
-      <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
       <DependentUpon>Player1.resx</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Run1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Run1.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Attack1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Attack1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Player1.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Player1.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -75,6 +91,10 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Run1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Run1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -89,12 +109,27 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="SNinja_swordidle 1.png" />
-    <Content Include="SNinja_swordidle 2.png" />
-    <Content Include="SNinja_swordidle 3.png" />
+    <Content Include="Resources\Atk1\SNinja_Atk 1.png" />
+    <Content Include="Resources\Atk1\SNinja_Atk 2.png" />
+    <Content Include="Resources\Atk1\SNinja_Atk 3.png" />
+    <Content Include="Resources\Atk1\SNinja_Atk 4.png" />
+    <Content Include="Resources\Atk1\SNinja_Atk 5.png" />
+    <Content Include="Resources\Atk1\SNinja_Atk 6.png" />
+    <Content Include="Resources\Idel1\SNinja_swordidle 1.png" />
+    <Content Include="Resources\Idel1\SNinja_swordidle 2.png" />
+    <Content Include="Resources\Idel1\SNinja_swordidle 3.png" />
+    <Content Include="Resources\Run1\SNinja_run 01.png" />
+    <Content Include="Resources\Run1\SNinja_run 02.png" />
+    <Content Include="Resources\Run1\SNinja_run 03.png" />
+    <Content Include="Resources\Run1\SNinja_run 04.png" />
+    <Content Include="Resources\Run1\SNinja_run 05.png" />
+    <Content Include="Resources\Run1\SNinja_run 06.png" />
+    <Content Include="Resources\Run1\SNinja_run 07.png" />
+    <Content Include="Resources\Run1\SNinja_run 08.png" />
+    <Content Include="Resources\Run1\SNinja_run 09.png" />
+    <Content Include="Resources\Run1\SNinja_run 10.png" />
+    <Content Include="Resources\Run1\SNinja_run 11.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Resources\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
